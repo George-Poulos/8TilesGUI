@@ -9,3 +9,5 @@
 
 The autosolve feature is based off the A* algorithm
 
+![Alt text](Screen Shot 2016-12-13 at 2.19.51 PM.jpg?raw=true "GUI")
+
